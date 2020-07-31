@@ -1,0 +1,12 @@
+Process mining techniques allow for extracting information from event logs. 
+For example, the audit trails of a workflow management system or the transaction logs of an enterprise resource 
+planning system can be used to discover models describing processes, organizations, and products. Moreover,
+it is possible to use process mining to monitor deviations (e.g., comparing the observed events with 
+predefined models or business rules in the context of SOX).
+
+http://www.processmining.org/research/start
+
+
+
+
+
